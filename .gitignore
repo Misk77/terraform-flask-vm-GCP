@@ -1,2 +1,22 @@
 credential_file.json
 michelskoglund-CodeLabs-087b72ea410a.json
+/Users/michelskoglund/CREDENTIALSFILES/*
+michelskoglund-CodeLabs-6544916959f0.json
+
+
+# Created by https://www.gitignore.io/api/macos
+# Edit at https://www.gitignore.io/?templates=macos
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
